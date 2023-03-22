@@ -1,0 +1,131 @@
+																			       Final Review Assignment
+					 														      DSC 430- Python Programming
+					    														       NAME : Goutham Selvakumar
+
+MC
+A format for ""assignment statement""?
+<variable> = <expression>
+<variable> =? <expression>
+<variables> = <expressions>
+<expression> = <variable>
+1
+
+TF
+Intergers are mutable
+F
+
+MC
+Which is useful when dealing with new or unfamiliar features or technology?
+Unit Testing
+Spiral Development
+Abstraction
+Step wise Refinement
+2
+
+TF
+When each of the component is tested, it is called as ""Unit Testing""?
+T
+
+MC
+The operations that support ""A Stack"" are?
+Dictinories
+Sets
+Tuple
+push() & pop()
+4
+
+TF
+The local variables are stored in namespace which are represented by every fuction call?
+T
+
+MC
+Which search algorithm is looked to be better in term?
+Binary Search
+in and index operations
+Linear Search
+Time Complexity
+3
+
+TF
+The process of combining two sorted lists into a single sorted list is known as ""Merging""?
+T
+
+MC
+Which operator is considered to be an ""Overloaded Operator""?
+Operator +
+Operator ==
+Operator //
+Operator -
+1
+
+TF
+""repr()"" function doesn't returns the canonical representation of an object?
+F
+
+MC
+The mode ""r+"" is used for?
+Reading
+Writing
+Append
+Reading and Writing
+4
+
+TF
+The anchor start tag must have ""href"" attribute?
+T
+
+MC
+Which one is acceptable for ""True RNG""?
+Inefficient, Non-Deterministic, Aperiodic
+Efficient, Deteministic, Periodic
+Inefficient, Deterministic, Aperiodic
+Efficient, Non-Deterministic, Periodic
+1
+
+TF
+We don't want to find a global minimum for the informed search?
+F
+
+MC
+What does the ""DIP"" principle depends on?
+High level modules should not depend on low-level module
+Both should not depend on abstractions
+Abstraction depends on details
+Details should not depend on abstractions
+1
+
+TF
+Requirements must be realistic?
+T
+
+MC
+""ALGIB"" stands for?
+JIT compilation
+High-performance data structures
+Numerical Analysis Library
+GNU Scientific Library
+3
+
+TF
+C functions are defined using the C struct?
+F
+
+MC
+What are the kinds of coding that are required in ""Job Interviews""?
+Fibonacci Series & Palindrome
+Hello World & Factorial
+Leap Year & Happy Number
+GCD & ASCII Value
+1
+
+TF
+Does the ""Job Interviews"" require problem solving techniques?
+T
+
+
+
+
+
+
+
+
